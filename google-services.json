@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763889036220",
+    "project_id": "zmms-12fdf",
+    "storage_bucket": "zmms-12fdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763889036220:android:0d78d090803b25734419b9",
+        "android_client_info": {
+          "package_name": "com.example.zmms_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJKB-_wcijlpbwx_aJPOQpmBqbmRkClxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
